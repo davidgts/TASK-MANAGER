@@ -1,0 +1,25 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "Master class dev samurai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidgts/TASK-MANAGER.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidgts/TASK-MANAGER/issues"
+  },
+  "homepage": "https://github.com/davidgts/TASK-MANAGER#readme",
+  "dependencies": {
+    "@adminjs/express": "^5.1.0",
+    "adminjs": "^6.8.7",
+    "express-formidable": "^1.2.0",
+    "tslib": "^2.5.0"
+  }
+}
