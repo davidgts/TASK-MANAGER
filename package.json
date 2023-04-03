@@ -25,6 +25,8 @@
     "express-formidable": "^1.2.0",
     "express-session": "^1.17.3",
     "nodemon": "^2.0.22",
+    "pg-hstore": "^2.3.4",
+    "postgres": "^3.3.4",
     "prettier": "^2.8.7",
     "sequelize": "^6.30.0",
     "sucrase": "^3.31.0",
